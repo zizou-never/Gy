@@ -1,0 +1,12 @@
+{
+      "name": "residanat-constantine-functions",
+        "version": "1.0.0",
+          "description": "Netlify Functions for Residanat Constantine",
+            "dependencies": {
+                "pg": "^8.11.3"
+                  },
+                    "devDependencies": {
+                        "@netlify/functions": "^2.4.0"
+                          }
+                          }
+}
